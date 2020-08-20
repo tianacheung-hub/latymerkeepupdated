@@ -14,7 +14,7 @@
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME_LDN/">here!</a></p>
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
-
+<p> <h2>  Within a week, some senior students have come into school during summer to create a Black Achievements Display. This display runs along the Great Hall, click <a href="https://drive.google.com/drive/folders/1EGITiKTaUJBCw7-LU1HPiT_4uW-nj6Ms?usp=sharing">here </a>to see a small preview of the boards! </h2>
 <p>
 <a href="https://drive.google.com/drive/u/2/folders/1EV4pLH9iv3edDVYOJpDYLmLFhryk7IhU">Updates Archive</a>
 </p>
