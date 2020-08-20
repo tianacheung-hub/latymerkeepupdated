@@ -78,7 +78,6 @@
 <hr/>
 <h1 style="background-color:lightpink">Competitions or Other Activities</h1>
 <p>Check out:</p>
-<p><a href="https://www.100greatblackbritons.co.uk/competition.html?fbclid=IwAR1z26m5zKbCBM30Y9BEp4Ih-YgBq17488IuQMe-bNGL0uUUG1ictNjHsdQ#children16">100 Great Britons!</a></p>
 <p>Sign these open Parliament Petitions <a href="https://petition.parliament.uk/petitions?state=open">Here!</a>
 </p>
 <p>Catch up on Modern Black Poets podcasts <a href="https://www.bbc.co.uk/programmes/b006qp7q">BBC 4</a>
