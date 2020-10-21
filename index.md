@@ -1,6 +1,5 @@
 <html>
 <head>
-<title> Updates and English/History Resources</title>
 </head>
 <body style="background:$blue-300	#79b8ff">
  <div class="border border-black-fade bg-blue-light p-2 mb-2">
@@ -15,10 +14,7 @@
 <p>If you want to write a blog or check out petitions and email templates, then go check out Zahra's BAME LDN page <a href="https://zahra-rahman.github.io/BAME_LDN/">here!</a></p>
 <hr/>
 <h1 style="background-color:Yellow"> Updates! </h1>
-<p>Thanks to Ms Elia for the novels recommendations, by Black Female Authors!</p>
-<img src="Queenie 2.jpg"/>      <img src="patsy.jpg"/> 
-<p>Click <a href="https://www.goodreads.com/book/show/36586697-queenie?from_search=true&from_srp=true&qid=tM9dAvt1F3&rank=1">here</a> to read about Queenie!    
-<p>Clich <a href="https://www.goodreads.com/book/show/41817523-patsy">here</a> to read about Patsy!</p>
+<p> <h2>  Within a week, some senior students have come into school during summer to create a Black Achievements Display. This display runs along the Great Hall, click <a href="https://drive.google.com/drive/folders/1EGITiKTaUJBCw7-LU1HPiT_4uW-nj6Ms?usp=sharing">here </a>to see a small preview of the boards! </h2>
 <p>
 <a href="https://drive.google.com/drive/u/2/folders/1EV4pLH9iv3edDVYOJpDYLmLFhryk7IhU">Updates Archive</a>
 </p>
@@ -30,8 +26,6 @@
 - ACS society are in the process of creating a BLM board for the Great Hall, although it is a way to appreciate and commemorate Black Men and Women's history and work, we believe it shouldn't stop there. So please try to educate yourself, and look at the resource pages below. </p>
 <p>
 - As changing the curriculum is an ongoing discussion, it is a long term process, so the English as well as History department are looking for ways to incorporate educating students whether that be through extra curriculum or on a student's own accord.</P>
-<p>
-- If you would like to be apart of an open discussion based on History that isn't taught in the curriculum, <a href="mailto:y14tiche@latymer.co.uk">press this email<a/> and let us know and you will be added to a google classroom.
 <p>
 - Please keep updated with this website as well as Zahra's in the link above, I will keep updating so that your emails won't be spammed and can be a better way to take in information! 
 </p>
@@ -82,7 +76,6 @@
 <hr/>
 <h1 style="background-color:lightpink">Competitions or Other Activities</h1>
 <p>Check out:</p>
-<p><a href="https://www.100greatblackbritons.co.uk/competition.html?fbclid=IwAR1z26m5zKbCBM30Y9BEp4Ih-YgBq17488IuQMe-bNGL0uUUG1ictNjHsdQ#children16">100 Great Britons!</a></p>
 <p>Sign these open Parliament Petitions <a href="https://petition.parliament.uk/petitions?state=open">Here!</a>
 </p>
 <p>Catch up on Modern Black Poets podcasts <a href="https://www.bbc.co.uk/programmes/b006qp7q">BBC 4</a>
@@ -126,7 +119,7 @@
     <li class="Box-row">
      <a href="https://www.youtube.com/watch?v=aBnX_iQbXvg">Mary Jean Chan</a>  
 <hr/>
-<h1 style="background-color:lightblue">Keep Up Wtih Socials</h1>
+<h1 style="background-color:lightblue">Keep Up With Socials</h1>
      
 <div class="float-left border m-3" style="width:250px; height:370px;">
  <h4>JOURNEY 2 MED</h4>
